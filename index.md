@@ -22,3 +22,5 @@ MyWonder is a platform over which users can conduct big data analytics and visua
 - Successfully test the new "note" section on UI.
 
 ### Gantt Chart
+
+<img src='./GC.png' align="right" width=384>
