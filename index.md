@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-This is an overveiw of the project MyWonder.
+## Welcome to MyWonder
+This is an overveiw of our project.
 
 You can use the [editor on GitHub](https://github.com/FeilongWu/MyWonder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
