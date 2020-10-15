@@ -13,9 +13,13 @@ This is an overveiw of our project.
 - The third waste is caused by the inappropriate skill. It is not necessary for everyone in team to create the visualization examples since some people may not have the skills to create quality visualizations for demos. Also, if the team is big, they will end up with too many visualization examples.
 
 ### Deliverables
+- Detail requirements for the probles.
+- Code for adding "note" section.
 - Release of UI with "note" section added.
+- Code for creating the new production environment.
 - Release of the new production environment
 - Powerpoint with visualization examples.
+- Revised Powerpoint accoding to CEO's feedback.
 - SCRUM deliverables including product vision statement, product roadmap, and etc.
 
 ### Milestone
