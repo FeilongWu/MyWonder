@@ -27,4 +27,4 @@ This is an overveiw of our project.
 
 ### Gantt Chart
 
-<img src='./GC.PNG' align="center" width=970>
+<img src='./GC2.PNG' align="center" width=970>
