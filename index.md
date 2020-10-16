@@ -23,7 +23,7 @@ MyWonder is a platform over which users can conduct big data analytics and visua
 - SCRUM deliverables including product vision statement, product roadmap, and etc.
 
 ### Milestone
-- Give the platform demos to usrs.
+- Give the platform demos to users.
 
 ### Gantt Chart
 
